@@ -1,7 +1,7 @@
 // Types in js
 
 
-var name = "Collins Rollins"
+var name = "Collins Rollins" // String
 
 
 var age = 17 // Number
