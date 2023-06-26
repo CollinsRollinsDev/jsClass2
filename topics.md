@@ -18,6 +18,10 @@ Types in js.
     }
 
 5. Introduction to functions
+
+    function myDetails() {
+        
+    }
 6. Arg in functions
 7. Objects
 8. Arrays

@@ -8,18 +8,18 @@ var name4 = "Patrick Oluwadamilola";
 
 var jambAdmittedName = "Oluwaseun Oluwasegun";
 
-if (name1 != jambAdmittedName) {
-    console.log(name1 + " " + "You are admitted into the University");
-}
-if (name2 != jambAdmittedName) {
-    console.log(name2 + " " + "You are admitted into the University");
-}
-if (name3 != jambAdmittedName) {
-    console.log(name3 + " " + "You are admitted into the University");
-}
-if (name4 != jambAdmittedName) {
-    console.log(name4 + " " + "You are admitted into the University");
-}
+// if (name1 != jambAdmittedName) {
+//     console.log(name1 + " " + "You are admitted into the University");
+// }
+// if (name2 != jambAdmittedName) {
+//     console.log(name2 + " " + "You are admitted into the University");
+// }
+// if (name3 != jambAdmittedName) {
+//     console.log(name3 + " " + "You are admitted into the University");
+// }
+// if (name4 != jambAdmittedName) {
+//     console.log(name4 + " " + "You are admitted into the University");
+// }
 
 // if (name1 === jambAdmittedName) {
 //     console.log(name1 + " " + "You are admitted into the University");
@@ -74,4 +74,11 @@ if (name4 != jambAdmittedName) {
 // In javascript, there are logical operators
 // 1. && (and)
 // 2. || (or)
-// 3. ! (not)
+
+let orangeLooks = 5
+
+if (orangeLooks !== 5) {
+    console.log('This is a good orange')
+} else {
+    console.log('This is a bad orange')
+}
